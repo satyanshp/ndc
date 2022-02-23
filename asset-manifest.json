@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ndc/static/css/main.17256011.css",
+    "main.js": "/ndc/static/js/main.107160f3.js",
+    "static/media/cheerful-attractive-young-woman-with-black-hair-walking.jpg": "/ndc/static/media/cheerful-attractive-young-woman-with-black-hair-walking.52bae4a0ae5a04afc04a.jpg",
+    "static/media/graduation-student-hold-hats-hand-during-commencement-success-graduates-university-concept-education-congratulation.jpg": "/ndc/static/media/graduation-student-hold-hats-hand-during-commencement-success-graduates-university-concept-education-congratulation.6397f3826ebdaa06ee87.jpg",
+    "static/media/bussiness-people-working-team-office.jpg": "/ndc/static/media/bussiness-people-working-team-office.988814249bb79dec239f.jpg",
+    "static/media/akson-1K8pIbIrhkQ-unsplash.jpg": "/ndc/static/media/akson-1K8pIbIrhkQ-unsplash.c04efe4d5aa2c9de1810.jpg",
+    "static/media/futuristic-industry-4-0-engineering-concept.jpg": "/ndc/static/media/futuristic-industry-4-0-engineering-concept.e536db834238a0435352.jpg",
+    "static/media/NDC.png": "/ndc/static/media/NDC.a1840c5435e911833210.png",
+    "static/media/01-Freedom.png": "/ndc/static/media/01-Freedom.b8b46b6a951d5bd3c3ca.png",
+    "static/media/NASSCOM.jpg": "/ndc/static/media/NASSCOM.72b3cb1c0262579c3b21.jpg",
+    "static/media/05-Wifi.png": "/ndc/static/media/05-Wifi.c921ad4de6ecd2966901.png",
+    "static/media/02-Employment.png": "/ndc/static/media/02-Employment.6d58249b01eb533c4832.png",
+    "static/media/07-Labs.png": "/ndc/static/media/07-Labs.e9704a156cc4bc43d5ea.png",
+    "static/media/13-Food-Courts.png": "/ndc/static/media/13-Food-Courts.2d29a985598705d243a7.png",
+    "static/media/03-Electives.png": "/ndc/static/media/03-Electives.0943cf45ee86ffbfb013.png",
+    "index.html": "/ndc/index.html",
+    "main.17256011.css.map": "/ndc/static/css/main.17256011.css.map",
+    "main.107160f3.js.map": "/ndc/static/js/main.107160f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17256011.css",
+    "static/js/main.107160f3.js"
+  ]
+}
