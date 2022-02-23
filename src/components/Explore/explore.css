@@ -1,0 +1,22 @@
+.explore{
+    width: 80%;
+    height: 20rem;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #001a4b;
+}
+
+.explore img{
+    height: 20rem;
+    width: 40vw;
+    object-fit: cover;
+}
+.exp-txt{
+ color: white;
+ font-size: 3.5rem;
+ text-transform: uppercase;
+ padding-left: 5rem;
+ padding-top: 3rem;
+
+}
